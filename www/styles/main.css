@@ -58,19 +58,6 @@ html, body {
     border: none;
     padding: 0;
 }
-/*custom the file input*/
-
-.imageLable {
-    position: relative;
-}
-#sendImage {
-    position: absolute;
-    width: 52px;
-    left: 0;
-    opacity: 0;
-    overflow: hidden;
-}
-/*end custom file input*/
 
 #messageInput {
     width: 440px;
